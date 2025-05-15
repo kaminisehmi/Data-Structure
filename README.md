@@ -15,6 +15,7 @@ Bookmark this link to quickly access study materials, examples, and notes.
 
 Explore the following topics directly on the site:
 
+  [Linear Search](./Linear.md)
 - [Algorithms](./algorithms.md)
 - [Stacks and Queues](./stacks_queues.md)
 - [Trees and Graphs](./trees_graphs.md)
